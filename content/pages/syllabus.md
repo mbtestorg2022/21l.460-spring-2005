@@ -24,12 +24,57 @@ Grading
 
 The final grade for this class will be computed according to the following weighted scale:
 
-| activities | percentages |
-| --- | --- |
-| Active Class Participation | 25% |
-| Two Reader Responses (each 3 pages in length) | 20% |
-| Oral Presentation and Write-Up (5 pages in length) | 25% |
-| Final Paper (10 pages in length) | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+activities
+{{< thclose >}}
+{{< thopen >}}
+percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Active Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Reader Responses (each 3 pages in length)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Presentation and Write-Up (5 pages in length)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper (10 pages in length)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Class Participation and Attendance Policy
 -----------------------------------------

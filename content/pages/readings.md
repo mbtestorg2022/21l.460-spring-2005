@@ -38,31 +38,637 @@ Additionally, the following selection of works are available on the Web:
 {{< anchor "readings" >}}{{< /anchor >}}{{< anchor "ses" >}}{{< /anchor >}}Readings by Session
 ----------------------------------------------------------------------------------------------
 
-| SES # | topics | readings |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Courtly Love Tradition {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Domination and Desire {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Selected authors. [_Selected Troubadour Lyrics_](http://www.britannica.com/art/troubadour-lyric-artist). {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Dolce Stil Nuovo_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dante_. La Vita Nuova._ i-xxi. {{< br >}}{{< br >}} Guinizelli, Guido. [_Al cor gentil_](http://www.auburn.edu/~bertocr/). {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Ennobling Love: Sublimation and Subjection {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dante_. La Vita Nuova._ xxii-xlii. {{< br >}}{{< br >}} Cavalcante, Guido. [_Sonnets_](http://www.sonnets.org/pound.htm). xxii and xxiii. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Historical Background: Secular Politics {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Historical Background: Church Politics {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Florentine History and the _The Divine Comedy_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dante. _Inferno._ i-xi. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Epic and Romance {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dante. _Inferno._ xii-xxii. {{< br >}}{{< br >}} [_De Vulgari Eloquentia_](http://www.danteonline.it/italiano/opere.asp?idope=3&idlang=OR). {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Moral Perversion and Linguistic Distortion {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dante. _Inferno._ xxiii-xxxiv. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Confession and the Practice of Penitence {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dante. _Purgatorio._ i-xi. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Nature and the Power of Love {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dante. _Purgatorio._ xii-xxii. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Ecstatic Desire {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dante. _Purgatorio._ xxiii-xxxiii. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Moral Cosmology {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dante. _Paradiso._ i-xi. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 14 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Visions of the Ideal Society {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dante. _Paradiso._ xii-xxii. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 15 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Ends of Language {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dante. _Paradiso._ xxiii-xxxiii. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 16 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Plague of Language {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Boccaccio. _Decameron._ Prologue; I. Introduction, i, ii, iii; II. vii, ix; III. i, iii, x. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 17 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Comedy and Tragedy {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Boccaccio. _Decameron._ IV. i, ii, v; V. iv, x; VI. Introduction, v, vii, x, Conclusion. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 18 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Rhetoric and Redemption {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Boccaccio. _Decameron._ VII. i, ii, vi, viii, ix; VIII. i, vii; IX. ii, vi, x; X. v, x, Epilogue. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 19 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Historical Background: The Fourteenth-Century Renaissance in England {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 20 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Britain and the Myth of Trojan Origins {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chaucer. _Troilus and Criseyde._ I. 1-469. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 21 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Ricardian Politics {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chaucer. _Troilus and Criseyde._ I. 470-1090. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 22 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Free Will and Determinism {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chaucer. _Troilus and Criseyde._ II. {{< br >}}{{< br >}} [Petrarch](http://translations-ink.com/Canzon5.html), Sonnet cxxxii, "S'amor non è." {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 23 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Mediators and Mediation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chaucer. _Troilus and Criseyde_. III. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 24 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Multiplicity and Indeterminacy {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chaucer. _Troilus and Criseyde_. IV. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 25 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Tragedy and Transcendence {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chaucer. _Troilus and Criseyde_. V. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 26 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} What Is This Thing Called Love? {{< br >}}{{< br >}} Conclusion {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+topics
+{{< thclose >}}
+{{< thopen >}}
+readings
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Courtly Love Tradition
+
+Introduction
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Domination and Desire
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Selected authors. [_Selected Troubadour Lyrics_](http://www.britannica.com/art/troubadour-lyric-artist).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Dolce Stil Nuovo_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dante_. La Vita Nuova._ i-xxi.
+
+Guinizelli, Guido. [_Al cor gentil_](http://www.auburn.edu/~bertocr/).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ennobling Love: Sublimation and Subjection
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dante_. La Vita Nuova._ xxii-xlii.
+
+Cavalcante, Guido. [_Sonnets_](http://www.sonnets.org/pound.htm). xxii and xxiii.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Historical Background: Secular Politics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Historical Background: Church Politics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Florentine History and the _The Divine Comedy_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dante. _Inferno._ i-xi.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Epic and Romance
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dante. _Inferno._ xii-xxii.
+
+[_De Vulgari Eloquentia_](http://www.danteonline.it/italiano/opere.asp?idope=3&idlang=OR).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Moral Perversion and Linguistic Distortion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dante. _Inferno._ xxiii-xxxiv.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Confession and the Practice of Penitence
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dante. _Purgatorio._ i-xi.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Nature and the Power of Love
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dante. _Purgatorio._ xii-xxii.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ecstatic Desire
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dante. _Purgatorio._ xxiii-xxxiii.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Moral Cosmology
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dante. _Paradiso._ i-xi.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+14
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Visions of the Ideal Society
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dante. _Paradiso._ xii-xxii.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+15
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Ends of Language
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dante. _Paradiso._ xxiii-xxxiii.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+16
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Plague of Language
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Boccaccio. _Decameron._ Prologue; I. Introduction, i, ii, iii; II. vii, ix; III. i, iii, x.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+17
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Comedy and Tragedy
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Boccaccio. _Decameron._ IV. i, ii, v; V. iv, x; VI. Introduction, v, vii, x, Conclusion.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+18
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rhetoric and Redemption
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Boccaccio. _Decameron._ VII. i, ii, vi, viii, ix; VIII. i, vii; IX. ii, vi, x; X. v, x, Epilogue.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+19
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Historical Background: The Fourteenth-Century Renaissance in England
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+20
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Britain and the Myth of Trojan Origins
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chaucer. _Troilus and Criseyde._ I. 1-469.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+21
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ricardian Politics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chaucer. _Troilus and Criseyde._ I. 470-1090.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+22
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Free Will and Determinism
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chaucer. _Troilus and Criseyde._ II.
+
+[Petrarch](http://translations-ink.com/Canzon5.html), Sonnet cxxxii, "S'amor non è."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+23
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mediators and Mediation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chaucer. _Troilus and Criseyde_. III.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+24
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Multiplicity and Indeterminacy
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chaucer. _Troilus and Criseyde_. IV.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+25
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tragedy and Transcendence
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chaucer. _Troilus and Criseyde_. V.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+26
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+What Is This Thing Called Love?
+
+Conclusion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
