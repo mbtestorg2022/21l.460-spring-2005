@@ -4,6 +4,7 @@ description: Psalms from the King James Bible provided as study materials for th
   course.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-460-medieval-literature-dante-boccaccio-chaucer-spring-2005/7dfc67683f247fd1001b03f53908729a_2biblicalechoes.pdf
 file_type: application/pdf
+parent_uid: efde6985-d1d7-1bc3-b7c6-775a523528e4
 resourcetype: Document
 title: Biblical Echoes in Guillelm de Poitou (#7)
 uid: 7dfc6768-3f24-7fd1-001b-03f53908729a
